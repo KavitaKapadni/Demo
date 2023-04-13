@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-11T11:11:00 IST" name="Suite" finished-at="2023-04-11T11:11:17 IST" duration-ms="16890">
+    <groups>
+    </groups>
+    <test started-at="2023-04-11T11:11:00 IST" name="Test" finished-at="2023-04-11T11:11:17 IST" duration-ms="16890">
+      <class name="TestNG.RunMultipleTestSuite1">
+        <test-method signature="verifyLogo()[pri:0, instance:TestNG.RunMultipleTestSuite1@49912c99]" started-at="2023-04-11T11:11:00 IST" name="verifyLogo" finished-at="2023-04-11T11:11:07 IST" duration-ms="6836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestNG.RunMultipleTestSuite1@49912c99]" started-at="2023-04-11T11:11:07 IST" name="verifyTitle" finished-at="2023-04-11T11:11:11 IST" duration-ms="4829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- TestNG.RunMultipleTestSuite1 -->
+      <class name="TestNG.RunMultipleTestSuite2">
+        <test-method signature="verifyLogin()[pri:0, instance:TestNG.RunMultipleTestSuite2@24fcf36f]" started-at="2023-04-11T11:11:11 IST" name="verifyLogin" finished-at="2023-04-11T11:11:17 IST" duration-ms="5155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- TestNG.RunMultipleTestSuite2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
